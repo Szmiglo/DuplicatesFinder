@@ -1,0 +1,5 @@
+{
+    "ignore_files_below_size": 100,
+    "omit_calculating_hash": false,
+    "ignore_dirs": ["node_modules", ".git", ".vs", "bin", "obj"]
+}
